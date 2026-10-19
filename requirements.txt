@@ -1,0 +1,7 @@
+# scikit-learn must match the version the model was trained/saved with (1.6.1)
+scikit-learn==1.6.1
+numpy==2.2.6
+pandas==2.3.3
+shap==0.48.0
+streamlit==1.57.0
+altair==5.5.0
